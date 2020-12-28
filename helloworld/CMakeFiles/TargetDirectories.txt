@@ -1,3 +1,0 @@
-C:/Users/Administrator/Desktop/projects/helloworld/CMakeFiles/power.dir
-C:/Users/Administrator/Desktop/projects/helloworld/CMakeFiles/edit_cache.dir
-C:/Users/Administrator/Desktop/projects/helloworld/CMakeFiles/rebuild_cache.dir
